@@ -1,0 +1,13 @@
+\contentsline {chapter}{\numberline {第1章}项目背景}{1}{chapter.1}
+\contentsline {chapter}{\numberline {第2章}研究计划}{2}{chapter.2}
+\contentsline {chapter}{\numberline {第3章}类似产品分析}{3}{chapter.3}
+\contentsline {section}{\numberline {3.1}The Embroidered Computer——刺绣计算机}{3}{section.3.1}
+\contentsline {section}{\numberline {3.2}PIX}{4}{section.3.2}
+\contentsline {section}{\numberline {3.3}e-broidery}{5}{section.3.3}
+\contentsline {chapter}{\numberline {第4章}技术方案}{6}{chapter.4}
+\contentsline {chapter}{\numberline {第5章}实现}{7}{chapter.5}
+\contentsline {chapter}{\numberline {第6章}展望}{8}{chapter.6}
+\contentsline {chapter}{插图索引}{9}{section*.15}
+\contentsline {chapter}{表格索引}{10}{section*.17}
+\contentsline {chapter}{公式索引}{11}{section*.19}
+\contentsline {chapter}{参考文献}{12}{section*.21}
